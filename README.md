@@ -28,21 +28,21 @@ To run this app locally, follow these steps:
    
    Make sure you have Node.js installed. Then, run:
    
-   ```npm install
+   ```npm install```
    
 4. **Run the Application:**
    
-   ```npm run dev
+   ```npm run dev```
    
    The app should now be running on http://localhost:5173.
 
 ## Usage
 
--**Add a Task**: Type a task description in the input field and click the "+" button to add it to your list.
--**Mark as Complete**: Click the checkbox next to a task to mark it as complete.
--**Delete a Task**: Click the "x" icon next to a task to remove it from the list.
+- **Add a Task**: Type a task description in the input field and click the "+" button to add it to your list.
+- **Mark as Complete**: Click the checkbox next to a task to mark it as complete.
+- **Delete a Task**: Click the "x" icon next to a task to remove it from the list.
 
 ## Code Structure
 
--**ToDoApp.jsx**: The main component that handles input, task addition, deletion, and toggling task status.
--**index.css**: Custom styles for the app using Tailwind CSS classes.
+- **ToDoApp.jsx**: The main component that handles input, task addition, deletion, and toggling task status.
+- **index.css**: Custom styles for the app using Tailwind CSS classes.
